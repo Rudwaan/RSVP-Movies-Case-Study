@@ -4,7 +4,7 @@ RSVP Movies is an Indian film production company which has produced many super-h
 
  
 
-The production company wants to plan their every move analytically based on data and have approached you for help with this new project. You have been provided with the data of the movies that have been released in the past three years. You have to analyse the data set and draw meaningful insights that can help them start their new project. 
+The production company wants to plan their every move analytically based on data and have approached you for help with this new project. You have been provided with the data of the movies from IMDb that have been released in the past three years. You have to analyse the data set and draw meaningful insights that can help them start their new project. 
 
  
 
